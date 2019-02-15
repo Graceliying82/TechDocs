@@ -6,3 +6,7 @@ I will update this repository based on the timeline I learned those topics.
 . Jwt 
 Sessionless Authentication using JWTs (with Node + Express + Passport JS)
 https://blog.usejournal.com/sessionless-authentication-withe-jwts-with-node-express-passport-js-69b059e4b22c
+
+https://blog.sqreen.io/xss-in-vue-js/
+XSS in Vue.js
+Sessionless Authentication using JWTs (with Node + Express + Passport JS)
